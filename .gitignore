@@ -11,6 +11,7 @@ venv/
 # Download scripts reproduce them from the official sources.
 data/raw/*
 data/staged/*
+data/processed/*
 !data/raw/.gitkeep
 !data/staged/.gitkeep
 !data/raw/m3/.gitkeep
